@@ -1,0 +1,15 @@
+{
+    "job": {
+        "steps": [
+            {
+                "external_data": []
+            },
+            {
+                "external_data": []
+            }
+        ],
+        "shipment_details": {
+            "master_bill_of_lading": "114299556"
+        }
+    }
+}

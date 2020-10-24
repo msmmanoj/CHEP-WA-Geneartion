@@ -1,0 +1,1 @@
+global raw_job_text, transformed_text, trigger_transform_button

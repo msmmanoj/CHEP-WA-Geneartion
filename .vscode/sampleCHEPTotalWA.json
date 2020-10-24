@@ -1,0 +1,872 @@
+{
+    "job": {
+        "commodities": [
+            {
+                "external_data": [
+                    {
+                        "label": "Commodity Amount",
+                        "value": "0 GALLONS",
+                        "order": 15,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Total Commodity Weight",
+                        "value": "30335 LB",
+                        "order": 25,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Hazmat?",
+                        "value": "N",
+                        "order": 55,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Hazmat Placard Required?",
+                        "value": "N",
+                        "order": 60,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Temp Control?",
+                        "value": "N",
+                        "order": 105,
+                        "isLabel": false
+                    }
+                ],
+                "ref_id": null,
+                "id": 1,
+                "external_id": "1-54803381142-011",
+                "order": 1,
+                "name": "PALLETS - EMPTY",
+                "compartment_number": null,
+                "load_unload_method": null,
+                "hazmat_united_nations_number": null,
+                "customer_tank_number": null,
+                "destination_location_id": 2958870,
+                "ship_unit_number": "1-54803381142-011",
+                "planned_gross_weight": {
+                    "value": 30335,
+                    "uom": "lbs"
+                },
+                "planned_volume": {
+                    "value": 0,
+                    "uom": "gal"
+                }
+            }
+        ],
+        "locations": [
+            {
+                "external_data": [
+                    {
+                        "label": "Location Information",
+                        "value": "",
+                        "order": 600,
+                        "isLabel": true
+                    },
+                    {
+                        "label": "Avg. Load\/Unload Time",
+                        "value": "30 min",
+                        "order": 607,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Main Contact Number",
+                        "value": "+17062424225",
+                        "order": 701,
+                        "isLabel": false
+                    }
+                ],
+                "contacts": [
+                    {
+                        "number": "+17062424225",
+                        "name": "MAIN",
+                        "id": "1",
+                        "title": "NA",
+                        "external_id": "NA"
+                    }
+                ],
+                "address": "385 CALLAWAY CHURCH RD",
+                "city": "LAGRANGE",
+                "latitude": 33.02977,
+                "longitude": -84.96517,
+                "external_id": "114834",
+                "state": "GA",
+                "country": "US",
+                "open_hours": [
+                    {
+                        "day_of_week": "Sunday",
+                        "opens_at": "06:00",
+                        "closes_at": "23:59"
+                    },
+                    {
+                        "day_of_week": "Monday",
+                        "opens_at": "06:00",
+                        "closes_at": "23:59"
+                    },
+                    {
+                        "day_of_week": "Tuesday",
+                        "opens_at": "05:00",
+                        "closes_at": "23:59"
+                    },
+                    {
+                        "day_of_week": "Wednesday",
+                        "opens_at": "05:00",
+                        "closes_at": "23:59"
+                    },
+                    {
+                        "day_of_week": "Thursday",
+                        "opens_at": "05:00",
+                        "closes_at": "23:59"
+                    },
+                    {
+                        "day_of_week": "Friday",
+                        "opens_at": "05:00",
+                        "closes_at": "23:59"
+                    },
+                    {
+                        "day_of_week": "Saturday",
+                        "opens_at": "06:00",
+                        "closes_at": "23:59"
+                    }
+                ],
+                "name": "114834-WAL-MART STORES INC",
+                "id": null,
+                "postal_code": "30241-9391",
+                "time_zone": "US\/Eastern",
+                "remarks": [
+                    {
+                        "label": "Location Pickup Instructions",
+                        "value": "CHEP USE so# TO pu LOAD  ANY PROBLEMS ASK FOR PROPAK MNGR PU DURING OPEN Hrs ONLY-PPWRK AT TRAFFIC OFFICE... No Bobtail for Chep!! SAT, SUN AND MON 0400 TO 1830. TUES THRU FRI 24 HOURS FOR CHEP",
+                        "order": 351
+                    }
+                ]
+            },
+            {
+                "external_data": [
+                    {
+                        "label": "Location Information",
+                        "value": "",
+                        "order": 600,
+                        "isLabel": true
+                    },
+                    {
+                        "label": "Avg. Load\/Unload Time",
+                        "value": "30 min",
+                        "order": 608,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Main Contact Number",
+                        "value": "+14232698963",
+                        "order": 701,
+                        "isLabel": false
+                    }
+                ],
+                "contacts": [
+                    {
+                        "number": "+14232698963",
+                        "name": "MAIN",
+                        "id": "1",
+                        "title": "NA",
+                        "external_id": "NA"
+                    }
+                ],
+                "address": "2222 POLYMER DRIVE",
+                "city": "CHATTANOOGA",
+                "latitude": 35.05277,
+                "longitude": -85.194,
+                "external_id": "2958870",
+                "state": "TN",
+                "country": "US",
+                "open_hours": [
+                    {
+                        "day_of_week": "Monday",
+                        "opens_at": "08:00",
+                        "closes_at": "20:30"
+                    },
+                    {
+                        "day_of_week": "Tuesday",
+                        "opens_at": "08:00",
+                        "closes_at": "20:30"
+                    },
+                    {
+                        "day_of_week": "Wednesday",
+                        "opens_at": "08:00",
+                        "closes_at": "20:30"
+                    },
+                    {
+                        "day_of_week": "Thursday",
+                        "opens_at": "08:00",
+                        "closes_at": "20:30"
+                    },
+                    {
+                        "day_of_week": "Friday",
+                        "opens_at": "08:00",
+                        "closes_at": "20:30"
+                    }
+                ],
+                "name": "2958870-GREEN STAR PALLET",
+                "id": null,
+                "postal_code": "37421",
+                "time_zone": "US\/Eastern",
+                "remarks": []
+            }
+        ],
+        "sample": [
+            {
+                "appointment": {
+                    "start_time": null,
+                    "end_time": null,
+                    "ready_time": "2020-09-10T04:00:00Z",
+                    "late_time": null,
+                    "relay_time": null,
+                    "expected_relay_flag": false
+                },
+                "tasks": [
+                    {
+                        "external_data": {
+                            "is_required": true,
+                            "is_prompt_repeats": true,
+                            "is_allow_repeats": false
+                        },
+                        "remarks": [],
+                        "fields": [],
+                        "id": "1",
+                        "external_id": "114834-216394277-arrived",
+                        "order": 1,
+                        "type": "arrived",
+                        "status": "New",
+                        "name": "Arrived at Stop",
+                        "assets": null
+                    },
+                    {
+                        "external_data": {
+                            "is_required": false,
+                            "is_prompt_repeats": true,
+                            "is_allow_repeats": true
+                        },
+                        "remarks": [],
+                        "fields": {
+                            "PlannedMasterBillOfLading": "114175503",
+                            "ActualTrailingUnitOwner": "SNI",
+                            "PlannedTrailingUnitOwner": "SNI",
+                            "PlannedTrailingUnitId": "TA140656",
+                            "ActualTrailingUnitType": "53 VAN",
+                            "PlannedTrailingUnitType": "53 VAN",
+                            "PlannedGrossWeight": {
+                                "value": 30335,
+                                "uom": "lbs"
+                            },
+                            "AdditionalInfoNeeded": false
+                        },
+                        "id": "2",
+                        "external_id": "114834-216394277-pickupLoadedTrailingUnit",
+                        "order": 220,
+                        "type": "pickupLoadedTrailingUnit",
+                        "status": "New",
+                        "name": "Pickup Loaded Trailing Unit",
+                        "assets": null
+                    },
+                    {
+                        "external_data": {
+                            "is_required": true,
+                            "is_prompt_repeats": true,
+                            "is_allow_repeats": true
+                        },
+                        "remarks": [],
+                        "fields": {
+                            "ActualTrailingUnitOwner": "SNI",
+                            "PlannedTrailingUnitOwner": "SNI"
+                        },
+                        "id": "3",
+                        "external_id": "114834-216394277-dropEmpty",
+                        "order": 205,
+                        "type": "dropEmpty",
+                        "status": "New",
+                        "name": "Drop Empty",
+                        "assets": null
+                    },
+                    {
+                        "external_data": {
+                            "is_required": true,
+                            "is_prompt_repeats": false,
+                            "is_allow_repeats": true
+                        },
+                        "remarks": [],
+                        "fields": null,
+                        "id": "4",
+                        "external_id": "114834-216394277-natNalUpdate",
+                        "order": 700,
+                        "type": "natNalUpdate",
+                        "status": "New",
+                        "name": "Update NAT\/NAL",
+                        "assets": null
+                    },
+                    {
+                        "external_data": {
+                            "is_required": true,
+                            "is_prompt_repeats": true,
+                            "is_allow_repeats": false
+                        },
+                        "remarks": [],
+                        "fields": [],
+                        "id": "5",
+                        "external_id": "114834-216394277-departed",
+                        "order": 950,
+                        "type": "departed",
+                        "status": "New",
+                        "name": "Departed from Stop",
+                        "assets": null
+                    },
+                    {
+                        "external_data": {
+                            "is_required": false,
+                            "is_prompt_repeats": false,
+                            "is_allow_repeats": false
+                        },
+                        "remarks": [],
+                        "fields": [],
+                        "id": "6",
+                        "external_id": "114834-216394277-requestApprovalPickup",
+                        "order": 5,
+                        "type": "requestApprovalPickup",
+                        "status": "New",
+                        "name": "Request Approval for Changed Work",
+                        "assets": null
+                    }
+                ],
+                "remarks": [],
+                "id": "1",
+                "order": "2",
+                "type": "Pickup",
+                "status": "New",
+                "name": "114834-WAL-MART STORES INC",
+                "external_data": [
+                    {
+                        "label": "Distance From Previous",
+                        "value": "43.0 MI",
+                        "order": -10,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Gross Weight",
+                        "value": "30335 LBS",
+                        "order": -5,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Additional Shipping Information",
+                        "value": "",
+                        "order": 10,
+                        "isLabel": true
+                    },
+                    {
+                        "label": "Hazmat?",
+                        "value": "N",
+                        "order": 13,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "High Value?",
+                        "value": "N",
+                        "order": 15,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Temperature Control?",
+                        "value": "N",
+                        "order": 17,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Load Ready Date\/Time",
+                        "value": "09\/10\/2020 00:00:00 EDT",
+                        "order": 25,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Total Gross Weight",
+                        "value": "30335 lb",
+                        "order": 30,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Distance From Previous",
+                        "value": "43.0 mi",
+                        "order": 39,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Total Distance",
+                        "value": "213 mi",
+                        "order": 40,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Equipment",
+                        "value": "SNI 53 VAN TA140656",
+                        "order": 42,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Order References",
+                        "value": "",
+                        "order": 45,
+                        "isLabel": true
+                    },
+                    {
+                        "label": "Master BOL",
+                        "value": "114299556",
+                        "order": 50,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Pickup",
+                        "value": "3681061356",
+                        "order": 70,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Shipper ID",
+                        "value": "210459223",
+                        "order": 75,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Shipper Order",
+                        "value": "3681493512",
+                        "order": 80,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Booking",
+                        "value": "147527212",
+                        "order": 125,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Stop References",
+                        "value": "",
+                        "order": 135,
+                        "isLabel": true
+                    },
+                    {
+                        "label": "Shipper Order",
+                        "value": "3681493513",
+                        "order": 170,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Commodity References",
+                        "value": "",
+                        "order": 230,
+                        "isLabel": true
+                    },
+                    {
+                        "label": "Pickup",
+                        "value": "3681061356",
+                        "order": 255,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Shipper Order",
+                        "value": "3681493514",
+                        "order": 265,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Border Crossing Info",
+                        "value": "",
+                        "order": 400,
+                        "isLabel": true
+                    }
+                ],
+                "external_id": "114834-216394277",
+                "customer_id": null,
+                "location_external_id": "114834",
+                "commodities": [
+                    "1-54803381142-011"
+                ],
+                "eta": "2020-09-15T17:58:34Z"
+            },
+            {
+                "appointment": {
+                    "start_time": "2020-09-15T21:30:00Z",
+                    "end_time": "2020-09-15T21:30:00Z",
+                    "ready_time": null,
+                    "late_time": "2020-09-15T22:00:00Z",
+                    "relay_time": null,
+                    "expected_relay_flag": false
+                },
+                "tasks": [
+                    {
+                        "external_data": {
+                            "is_required": true,
+                            "is_prompt_repeats": true,
+                            "is_allow_repeats": false
+                        },
+                        "remarks": [],
+                        "fields": [],
+                        "id": "7",
+                        "external_id": "2958870-216394276-arrived",
+                        "order": 1,
+                        "type": "arrived",
+                        "status": "New",
+                        "name": "Arrived at Stop",
+                        "assets": null
+                    },
+                    {
+                        "external_data": {
+                            "is_required": true,
+                            "is_prompt_repeats": true,
+                            "is_allow_repeats": true
+                        },
+                        "remarks": [],
+                        "fields": {
+                            "PlannedMasterBillOfLading": "114175503",
+                            "ActualTrailingUnitOwner": "SNI",
+                            "PlannedTrailingUnitOwner": "SNI",
+                            "PlannedTrailingUnitId": "TA140656",
+                            "ActualTrailingUnitType": "53 VAN",
+                            "PlannedTrailingUnitType": "53 VAN",
+                            "PlannedGrossWeight": {
+                                "value": 30335,
+                                "uom": "lbs"
+                            },
+                            "AdditionalInfoNeeded": false
+                        },
+                        "id": "8",
+                        "external_id": "2958870-216394276-dropCustomerLiveUnload",
+                        "order": 210,
+                        "type": "dropCustomerLiveUnload",
+                        "status": "New",
+                        "name": "Drop Customer Live Unload",
+                        "assets": null
+                    },
+                    {
+                        "external_data": {
+                            "is_required": false,
+                            "is_prompt_repeats": true,
+                            "is_allow_repeats": true
+                        },
+                        "remarks": [],
+                        "fields": {
+                            "Paperworks": [
+                                {
+                                    "Sequence": 2,
+                                    "PaperworkName": "PROOF OF DELIVERY",
+                                    "RemarkText": "Please scan in this document after final delivery stop of shipment. "
+                                }
+                            ]
+                        },
+                        "id": "9",
+                        "external_id": "2958870-216394276-paperworkReference",
+                        "order": 395,
+                        "type": "paperworkReference",
+                        "status": "New",
+                        "name": "Paperwork",
+                        "assets": null
+                    },
+                    {
+                        "external_data": {
+                            "is_required": true,
+                            "is_prompt_repeats": true,
+                            "is_allow_repeats": false
+                        },
+                        "remarks": [],
+                        "fields": [],
+                        "id": "10",
+                        "external_id": "2958870-216394276-departed",
+                        "order": 950,
+                        "type": "departed",
+                        "status": "New",
+                        "name": "Departed from Stop",
+                        "assets": null
+                    },
+                    {
+                        "external_data": {
+                            "is_required": false,
+                            "is_prompt_repeats": true,
+                            "is_allow_repeats": true
+                        },
+                        "remarks": [],
+                        "fields": [],
+                        "id": "11",
+                        "external_id": "2958870-216394276-expense",
+                        "order": 945,
+                        "type": "expense",
+                        "status": "New",
+                        "name": "Report Expenses",
+                        "assets": null
+                    },
+                    {
+                        "external_data": {
+                            "is_required": false,
+                            "is_prompt_repeats": false,
+                            "is_allow_repeats": false
+                        },
+                        "remarks": [],
+                        "fields": [],
+                        "id": "12",
+                        "external_id": "2958870-216394276-requestApprovalDrop",
+                        "order": 5,
+                        "type": "requestApprovalDrop",
+                        "status": "New",
+                        "name": "Request Approval for Changed Work",
+                        "assets": null
+                    }
+                ],
+                "remarks": [],
+                "id": "2",
+                "order": "3",
+                "type": "Delivery",
+                "status": "New",
+                "name": "2958870-GREEN STAR PALLET",
+                "external_data": [
+                    {
+                        "label": "Distance From Previous",
+                        "value": "170.0 MI",
+                        "order": -10,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Gross Weight",
+                        "value": "30335 LBS",
+                        "order": -5,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Additional Shipping Information",
+                        "value": "",
+                        "order": 10,
+                        "isLabel": true
+                    },
+                    {
+                        "label": "Hazmat?",
+                        "value": "N",
+                        "order": 13,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "High Value?",
+                        "value": "N",
+                        "order": 15,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Temperature Control?",
+                        "value": "N",
+                        "order": 17,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Load Ready Date\/Time",
+                        "value": "09\/10\/2020 00:00:00 EDT",
+                        "order": 25,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Appointment Start\/End",
+                        "value": "2020-09-15 17:30 EDT",
+                        "order": 26,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Total Gross Weight",
+                        "value": "30335 lb",
+                        "order": 30,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Distance From Previous",
+                        "value": "170.0 mi",
+                        "order": 39,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Total Distance",
+                        "value": "213 mi",
+                        "order": 40,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Order References",
+                        "value": "",
+                        "order": 45,
+                        "isLabel": true
+                    },
+                    {
+                        "label": "Master BOL",
+                        "value": "114299556",
+                        "order": 50,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Pickup",
+                        "value": "3681061356",
+                        "order": 70,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Shipper ID",
+                        "value": "210459223",
+                        "order": 75,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Shipper Order",
+                        "value": "3681493515",
+                        "order": 80,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Booking",
+                        "value": "147527212",
+                        "order": 125,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Stop References",
+                        "value": "",
+                        "order": 135,
+                        "isLabel": true
+                    },
+                    {
+                        "label": "Shipper Order",
+                        "value": "3681493516",
+                        "order": 170,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Commodity References",
+                        "value": "",
+                        "order": 230,
+                        "isLabel": true
+                    },
+                    {
+                        "label": "Pickup",
+                        "value": "3681061356",
+                        "order": 255,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Shipper Order",
+                        "value": "3681493517",
+                        "order": 265,
+                        "isLabel": false
+                    },
+                    {
+                        "label": "Border Crossing Info",
+                        "value": "",
+                        "order": 400,
+                        "isLabel": true
+                    }
+                ],
+                "external_id": "2958870-216394276",
+                "customer_id": null,
+                "location_external_id": "2958870",
+                "commodities": [
+                    "1-54803381142-011"
+                ],
+                "eta": "2020-09-15T21:30:00Z"
+            }
+        ],
+        "remarks": [],
+        "assets": [],
+        "sequence": 20200915160000000,
+        "id": 0,
+        "status": "pre_assign",
+        "external_data": [
+            {
+                "label": "Customer Order ID",
+                "value": "2036636374",
+                "order": 0,
+                "isLabel": false
+            },
+            {
+                "label": "Shipment Overview",
+                "value": "",
+                "order": 1,
+                "isLabel": true
+            },
+            {
+                "label": "Hazmat?",
+                "value": "N",
+                "order": 5,
+                "isLabel": false
+            },
+            {
+                "label": "High Value?",
+                "value": "N",
+                "order": 10,
+                "isLabel": false
+            },
+            {
+                "label": "Temp Controlled?",
+                "value": "N",
+                "order": 15,
+                "isLabel": false
+            },
+            {
+                "label": "Original Shipper",
+                "value": "WAL-MART STORES INC LAGRANGE, GA",
+                "order": 20,
+                "isLabel": false
+            },
+            {
+                "label": "Ultimate Consignee",
+                "value": "GREEN STAR PALLET CHATTANOOGA, TN",
+                "order": 25,
+                "isLabel": false
+            },
+            {
+                "label": "Load Ready",
+                "value": "09\/10\/2020 00:00:00 EDT",
+                "order": 30,
+                "isLabel": false
+            }
+        ],
+        "external_id": "ST143420463",
+        "shipment_details": {
+            "hazmat": false,
+            "high_value": false,
+            "temperature_controlled": false,
+            "shipping_documents": [
+                {
+                    "type": "Master Bill of Lading",
+                    "value": "114175503"
+                }
+            ],
+            "power_unit_id": "68069",
+            "total_distance": {
+                "value": 213,
+                "uom": "mi"
+            },
+            "line_of_business": "dryVan",
+            "prompt_for_fuel": true,
+            "master_bill_of_lading": "114299556",
+            "business_division": null,
+            "blind_shipment": null,
+            "geofencing_enabled": "NONE",
+            "segment_code": "VTL",
+            "liable_party_id": "11560"
+        },
+        "driver_alerts": [
+            {
+                "viewed_at": null,
+                "alerted_at": "2020-09-15T14:32:52Z",
+                "alert_level": 10,
+                "alert_title": "New Pre-Assignment received.  Starting at LAGRANGE, GA.  Ending at CHATTANOOGA, TN",
+                "driver_alert_items": [
+                    {
+                        "sequence": 1,
+                        "external_id": "ST143420463",
+                        "alert_type": "SHIPMENT",
+                        "alert_description": "New Pre-Assignment received.  Starting at LAGRANGE, GA.  Ending at CHATTANOOGA, TN"
+                    }
+                ]
+            }
+        ]
+    }
+}
