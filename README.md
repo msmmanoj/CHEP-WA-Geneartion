@@ -1,7 +1,5 @@
 # Python Application
 
-#### This Application transforms Normal Work Assignment to CHEP Work Assigment By modifying Master BOL, Shipper ID, Shipper Order Values.
-
 ## Linux Users
 
 ### Python3
