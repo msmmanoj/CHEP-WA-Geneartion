@@ -28,7 +28,7 @@ try:
 except:
     root = tk.Tk()
     
-root.title('Schneider-CHEP')
+root.title('Sample-CHEP')
 root.geometry("1200x900")
 root.resizable(0, 0)
 
@@ -39,7 +39,7 @@ setings.raw_job_text = scrolledtext.ScrolledText(f, height=20, width=100, wrap=t
 setings.raw_job_text.bind("<Control-Key-a>", operations.select_all_t)
 setings.raw_job_text.bind("<Delete>", operations.delete_all)
 setings.raw_job_text.config(padx=10, pady=10)
-setings.raw_job_text.insert("1.0", 'Place Schneider CHEP Work Assignment')
+setings.raw_job_text.insert("1.0", 'Place Sample CHEP Work Assignment')
 setings.raw_job_text.pack(side=tk.TOP)
 
 setings.trigger_transform_button = ttk.Button(f, text='Transform', command=operations.retrieve_text)
